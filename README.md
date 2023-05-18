@@ -6,3 +6,6 @@ Now, open DataBase.cs in Visual Studio and change Data Source to your server nam
 Special thanks to @CyberDanger on YT, his tutorials were really helpful. 
 login: saba
 password: admin
+
+
+It's my first huge project, i've never used this stack before, be gentle pls uwu
